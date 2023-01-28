@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "JaeHyeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "임재현의 코딩 블로그 입니다."
+  location         : "South Korea"
+  email            : "limjh9298@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
