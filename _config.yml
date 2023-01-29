@@ -132,16 +132,12 @@ author:
 # Site Footer
 footer:
   links:
-   
-    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com.LimJaeHyeon9298"
-    
-    
+      url: "https://github.com.LimJaeHyeon9298"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/jaehyeon997"
 
 
 # Reading Files
