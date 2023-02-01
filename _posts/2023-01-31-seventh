@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "튜플과 삼항연산자"
-categories: blog
+categories: grammer
 tag: [jekyll, blog, github]
 toc: true
 author_profile: false
